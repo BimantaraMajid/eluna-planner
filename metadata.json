@@ -1,0 +1,6 @@
+{
+  "name": "Eluna Planner",
+  "description": "Aplikasi planner pribadi harian untuk mengelola agenda, tugas, belanja, dan jadwal menu makan keluarga dengan desain mobile-first yang feminine dan calm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
